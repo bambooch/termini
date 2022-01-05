@@ -1,0 +1,36 @@
+{
+    "termini": [
+      {
+        "id": 1,
+        "pocetak": "14:30",
+        "kraj": "15:30",
+        "min": 6,
+        "max": 8,
+        "currentConfirmations": 5,
+        "locationId": 2
+      },
+      {
+        "id": 2,
+        "pocetak": "17:30",
+        "kraj": "18:45",
+        "min": 8,
+        "max": 10,
+        "currentConfirmations": 9, 
+        "locationId": 1
+      }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "naziv": "OŠ Meša Selimović",
+            "adresa": "Talića Brdo 6",
+            "cijenaPoSatu": 20
+        },
+        {
+            "id": 2,
+            "naziv": "OŠ Edhem Mulabdić",
+            "adresa": "Jalija 10",
+            "cijenaPoSatu": 25
+        }
+    ]
+  }
